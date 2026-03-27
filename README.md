@@ -3,7 +3,7 @@
 ![Atlas](https://github.com/user-attachments/assets/c8759174-8fcc-40b9-a312-5ca2eede368e)
 ---
 **Version:** 4.0 (Global Deployment)  
-**Author / Principal Architect:** Timur (timur.b86@gmail.com, timur.b@list.ru +998901856975) 
+**Author / Principal Architect:** Timur Bisembayev/Тимур Бисембаев (timur.b86@gmail.com, timur.b@list.ru +998901856975) 
 **Location:** Tashkent, Uzbekistan (Independent R&D)  
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
