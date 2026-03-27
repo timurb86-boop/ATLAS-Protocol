@@ -1,6 +1,6 @@
 «Decentralized Energy Manifesto &amp; Open Source Hardware (OSHW) architecture».
 # 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
-<img width="2816" height="1536" alt="Atlas" src="https://github.com/user-attachments/assets/3db4227b-c7e9-4bf1-82e5-66e60de643f0" />
+![Atlas](https://github.com/user-attachments/assets/c8759174-8fcc-40b9-a312-5ca2eede368e)
 ---
 # 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
 **Version:** 4.0 (Global Deployment)  
