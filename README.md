@@ -2,7 +2,8 @@
 # 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
 **Version:** 4.0 (Global Deployment)  
 **Author / Principal Architect:** Timur Bisembaev 
-**Location:** Tashkent, Uzbekistan (+998901856975, timur.b86@gmail.com, timur.b@list.ru) 
+**Location:** Tashkent, Uzbekistan 
+**+998901856975, timur.b86@gmail.com, timur.b@list.ru 
 **(Independent R&D)  
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
