@@ -2,7 +2,6 @@
 # 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
 ![Atlas](https://github.com/user-attachments/assets/c8759174-8fcc-40b9-a312-5ca2eede368e)
 ---
-# 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
 **Version:** 4.0 (Global Deployment)  
 **Author / Principal Architect:** Timur (timur.b86@gmail.com, timur.b@list.ru +998901856975) 
 **Location:** Tashkent, Uzbekistan (Independent R&D)  
