@@ -1,4 +1,3 @@
-<img width="2816" height="1536" alt="Gemini_Generated_Image_i3a0r2i3a0r2i3a0" src="https://github.com/user-attachments/assets/7cb78515-fc47-4915-981c-a869b8913b44" /># ATLAS-Protocol
 «Decentralized Energy Manifesto &amp; Open Source Hardware (OSHW) architecture».
 # 🌍 ATLAS PROTOCOL: Decentralized Energy Manifesto (OSHW)
 **Version:** 4.0 (Global Deployment)  
