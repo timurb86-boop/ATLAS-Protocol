@@ -48,7 +48,7 @@ Eliminating vacuum deposition and cleanrooms radically reduces CAPEX.
 * Electrolytic Graphene Oxide: **$2 / m²**
 * Laser Carbonization (CNC R2R): **$3 / m²**
 * **Total Manufacturing Cost:** **$12–15 per m²**.
-* **LCOE / Cost per Watt:** Generating 10 W/m², the cost of an installed Watt is **$1.20–$1.50 / W** (while simultaneously serving as physical building waterproofing).
+* **LCOE / Cost per Watt:** Generating 10 W/m², the cost of an installed Watt is **$0.90–$1.10 / W** (while simultaneously serving as physical building waterproofing).
 
 ---
 
@@ -65,7 +65,7 @@ Complete abandonment of silicon, heavy glass, and fragile Indium Tin Oxide (ITO)
 * **Projected PCE (STC):** **15–18%** for commercial units.
 * **Specific Power:** 100–150 W/kg (5–7 times lighter than silicon, ideal for weak roofs).
 * **Temperature Coefficient:** The graphene base acts as a thermal radiator, minimizing power loss during overheating.
-* **Cost per Watt:** High-speed roll printing drops expected costs to **$0.20–$0.30 per W**.
+* **Cost per Watt:** High-speed roll printing drops expected costs to **$0.08–$0.10 per W**.
 
 ---
 
@@ -124,7 +124,7 @@ Any production of ATLAS components exceeding **100 m² per year** or realization
 * Электролитический оксид графена: **$2 / м²**
 * Лазерная карбонизация (ЧПУ R2R): **$3 / м²**
 * **Итоговая себестоимость:** **$12–15 за 1 м²**.
-* **LCOE / Стоимость Ватта:** При генерации 10 Вт/м², стоимость установленного Ватта составляет **$1.20–$1.50 / Вт**.
+* **LCOE / Стоимость Ватта:** При генерации 10 Вт/м², стоимость установленного Ватта составляет **$0.90–$1.10 / Вт**.
 
 ---
 
@@ -141,7 +141,7 @@ Any production of ATLAS components exceeding **100 m² per year** or realization
 * **Прогнозируемый КПД (STC):** **15–18%** для коммерческого образца.
 * **Удельная мощность:** 100–150 Вт/кг (в 5–7 раз превосходит тяжелые кремниевые аналоги).
 * **Температурный коэффициент:** Графеновая база работает как радиатор, минимизируя падение мощности при перегреве.
-* **Стоимость Ватта:** За счет высокоскоростной рулонной печати ожидаемая себестоимость падает до **$0.20–$0.30 за Вт**.
+* **Стоимость Ватта:** За счет высокоскоростной рулонной печати ожидаемая себестоимость падает до **$0.08–$0.10 за Вт**.
 
 ---
 
